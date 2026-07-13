@@ -1,6 +1,6 @@
 *Open Science*
 
-This [open lab notebook](https://oliviamsimon.github.io/Open_Lab_Notebook/) contains methods products related to the work carried out for Olivia Simon's Ph.D. Dissertation at UCLA with Robert Eagle.
+This [open lab notebook](https://oliviamsimon.github.io/Open_Lab_Notebook/) contains methods and analytical products related to the work carried out for Olivia Simon's Ph.D. Dissertation at UCLA with Robert Eagle.
 This notebook is platformed on GitHub and it is directly linked to GitHub repositories that contain further details presented in notebook posts. 
 
 <p align="center">
