@@ -1,3 +1,6 @@
+layout: post
+title: "DNeasy Blood & Tissue Kit Stylaster gDNA Extraction"
+date: 2026-07-14
 
 # **7/14/2026 DNeasy Blood & Tissue Kit gDNA Extraction**
 
@@ -9,9 +12,9 @@
 
 ## SAMPLES
 
-| Sample       |Tube Mass (g)|Final Mass (g)|
+| Sample       |Tube Mass (mg)|Final Mass (mg)|
 |    :----:    |    :----:   |    :----:    |
-| 7/14/2026 SC3| 0.9978      | 1.4275       |
+| 7/14/2026 SC3| 1304.4      | 1673.6       |
 
 ## PROTOCOL
 
