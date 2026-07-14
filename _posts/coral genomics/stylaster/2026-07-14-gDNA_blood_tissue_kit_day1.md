@@ -1,6 +1,9 @@
+---
 layout: post
 title: "DNeasy Blood & Tissue Kit Stylaster gDNA Extraction Day 1"
 date: 2026-07-14
+categories: [genomics, stylaster]
+---
 
 # **7/14/2026 DNeasy Blood & Tissue Kit gDNA Extraction**
 
