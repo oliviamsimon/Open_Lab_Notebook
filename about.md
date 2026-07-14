@@ -4,22 +4,14 @@ title: About
 permalink: /about/
 ---
 
-### More Information
-
-[BECORAL Website](https://pradalabrutgers.weebly.com/)  
 
 ### Contact
 
-Benthic ECOlogy ReseArch Lab 
+Olivia Simon
 
-Tel - 001-848-932-3450
+Department of Atmospheric and Oceanic Sciences
+520 Portola Plaza
+Math Sciences Building 7127
+Los Angeles, CA 90095
 
-Rutgers University, Cook Campus
-
-Department of Marine and Coastal Sciences
-
-71 Dudley Road
-
-New Brunswick, NJ 08901, USA
-
-Email: prada@marine.rutgers.edu
+Email: oliviameyers@ucla.edu
