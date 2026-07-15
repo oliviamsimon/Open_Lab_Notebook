@@ -64,8 +64,9 @@ Elute
 
 **NOTES**
 
-1. Spun lysate at 500 x g for 2 min at 4˚C to pellet skeletal debris 
-2. Split lysate into two 300 uL volumes, added 1 uL 100 mg/mL RNase to each. Incubate at RT for 30 minutes. 
+1. Lysate was yellow.
+2. Spun lysate at 500 x g for 2 min at 4˚C to pellet skeletal debris.
+3. Split lysate into two 300 uL volumes, added 1 uL 100 mg/mL RNase to each. Incubate at RT for 30 minutes. 
 
 
 
