@@ -1,10 +1,95 @@
 ---
 layout: post
-title: yyyy-mm-dd Purelink Mini Kit RNA Extraction"
+title: yyyy-mm-dd Modified Purelink Mini Kit & Trizol RNA Extraction Protocol"
 date: yyyy-mm-dd
 categories: [transcriptomics, stylaster, leptogorgia]
 ---
 
+*Modified for stylasterid corals from [Purifying RNA from Plant Tissues] (https://documents.thermofisher.com/TFS-Assets/LSG/manuals/purelink_rna_mini_kit_man.pdf#page=32.07)*
+
+## OBJECTIVE
+
+Extract and purify high-quality RNA for transcriptome assembly. 
+
 ## SAMPLES
+
+Preparation
+
+1. Pre-temp centrifuge to 4˚C. Pre-heat DEPC-treated water to 65˚C (50 uL per sample).
+2. Wipe down no-DNA laminar flow hood with 10% bleach, RNase Away, and 70% ethanol. 
+3. Wipe mortar and pestle, hammer, chisel, tweezers, spatula, and weigh boat down with 10% bleach, 70% etOH, and RNase away.
+4. Place items from step 3, a falcon tube for working lysis buffer, epi-tubes (# of samples), a tube rack, and DEPC treated H2O in the hood and UV sterilize for 20-30 minutes.
+5. Wipe down low DNA bench. 
+6. Prepare working Trizol buffer by adding 10 uL 2-mercaptoethanol per 1 mL Trizol to an RNase free 15 mL falcon tube.
+
+> - 2-mercaptoethanol volume to add to buffer = (# samples + 2 for error) x (2 lysis rounds) x (1500 uL) x 0.01
+> - Trizol volume = (# samples + 2 for error) x (2 lysis rounds) x (1500 uL) - 2-mercaptoethanol volume
+
+
+7. Prepare 6M HCl (if necessary) by adding 500 uL DEPC Treated H2O and VWR BDH ACS grade hydrochloric acid 36.5-38% in hood. 
+8. Obtain LN2 and ice.
+
+Homogenizing Coral
+
+*See https://cdn.coastalscience.noaa.gov/cdhc/docs/Tissue_Homogenization.pdf*
+
+9. Add LN2 to styrofoam box with cryo-safe dividers. Place spatulas, tweezers, chisel, and epi-tubes for samples in LN2 to chill. 
+10. Pre‐chill clean mortar and pestle by filling with LN2 and letting it evaporate twice before adding tissue sample. 
+11. Place large coral fragment in a weigh boat, use hammer and chisel to obtain ~ 2cm fragment of coral branch tip.
+12. Add fragments to mortar and fill halfway with LN2. Let the LN2 evaporate before grinding with the pre‐chilled pestle.
+13. Place hand over mortar and carefully hammer fragments into smaller chunks with pestle. Once in small chunks, thoroughly grind coral until it's a fine powder. 
+
+> Intermittently add LN2 to your sample to prevent thawing and to allow ease of grinding tissue.
+
+14. Obtain epi-tube from LN2, then use pre‐chilled spatulas to dispense ground tissue from mortar into tube.
+Do not close tubes until all nitrogen vapors have evaporated to avoid pressure build up from the nitrogen gas.
+15. Place samples on dry ice (or LN2) until next steps.
+
+Lysis
+
+16. In fume hood, add 5 uL 6M HCl to powder to each sample to neutralize CaCO3. 
+17. Add 1500 uL working lysis buffer (Trizol prepared with 2–mercaptoethanol) to each sample tube.
+18. Vortex the lysate to disperse the sample. 
+19. Incubate in Trizol for 5 minutes at room temperature. Clean low DNA bench in the meantime.
+20. Centrifuge at 1,000 × g, 4°C for 2 minutes. 
+21. Transfer TRIzol supernatant to a fresh 2 mL RNase-free tube. Discard skeleton pellet. You should have ~1400 uL trizol
+22. Add 280 uL (0.2 mL per 1 mL Trizol) chloroform, shake vigorously by hand for 15 seconds until solution is milky. Do not vortex.
+23. Centrifuge at 12,000 x g for 30 minutes at 4°C. Place supernatant in new tube for extraction. Keep samples on ice.
+
+> Note: After centrifugation, the mixture separates into a lower, red phenol-chloroform phase, an interphase, and a colorless upper aqueous phase which contains the RNA. The volume of the aqueous upper phase is ~600 μL.
+
+Binding
+
+24. On ice, transfer ~400 μL of the colorless, upper phase containing the RNA to a fresh RNase–free tube.
+25. Add an equal volume 70% ethanol (400 uL) to obtain a final ethanol concentration of 35%. Vortex to mix well.
+26. Invert the tube to disperse any visible precipitate that may form after adding ethanol.
+27. Transfer up to 650 μL of your sample to the Spin Cartridge with a Collection Tube. 
+28. Centrifuge at 12,000 × g for 15 seconds at 4˚C. Discard the flow-through, dab rim of collection tube by tapping against kim wipe face down, and reinsert the Spin Cartridge in the same Collection Tube.
+29. Repeat Steps 28-29 until the entire sample (all lysate) is processed.
+
+Washing
+
+30. Add 700 μL Wash Buffer I to the Spin Cartridge. Centrifuge at 12,000 × g for 15 seconds at 4˚C. Discard the flow-through and the Collection Tube and place the Spin Cartridge into a new Collection Tube.
+31. Add 500 μL Wash Buffer II to the Spin Cartridge.
+
+> Make sure wash buffer II has ethanol added!
+> When adding buffer, rinse sides of spin column with buffer.
+
+32. Let buffer sit on column for 1 minute.
+33. Centrifuge at 12,000 × g for 15 seconds at 4˚C. Discard the flow-through and reinsert the Spin Cartridge in the same Collection Tube.
+34. Repeat Wash Buffer II steps twice more for a total of three washes.
+25. Centrifuge the Spin Cartridge once more with collection tube at 12,000 × g for 1 minute at 4˚C to dry the membrane with attached RNA. Discard the Collection Tube and insert the Spin Cartridge into a Recovery Tube.
+
+Elution
+
+26. Add 25 μL 65˚C RNase-Free Water to the center of the Spin Cartridge
+27. Incubate at room temperature for 1 minute.
+28. Centrifuge the Spin Cartridge for 2 minutes at 12,000 × g at 4˚C.
+29. Add another 25 uL 65˚C RNase free water to spin cartridge. Incubate for 1 minute.
+30. Centrifuge the Spin Cartridge for 2 minutes at 12,000 × g at 4˚C.
+29. Aliquot 10 uL of each sample in a PCR strip tube for downstream quality checks to avoid freeze-thaw cycles. 
+
+
+
 
 
