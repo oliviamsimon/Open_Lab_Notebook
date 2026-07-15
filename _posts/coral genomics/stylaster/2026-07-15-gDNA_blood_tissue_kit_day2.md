@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "07-15-2026 D2 DNeasy Blood & Tissue Kit gDNA Extraction"
-date: 07-15-2026
+title: "2026-07-15 D2 DNeasy Blood & Tissue Kit gDNA Extraction"
+date: 2026-07-15
 categories: [genomics, stylaster]
 ---
 
