@@ -10,6 +10,7 @@ categories: [genomics, stylaster]
 1. 07-14-2026 SC3  
 
 ## PROTOCOL
+
 **DAY 2**
 
 Preparation
