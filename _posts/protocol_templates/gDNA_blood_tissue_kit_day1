@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "mm/dd/yyyy D1 DNeasy Blood & Tissue Kit gDNA Extraction"
-date: mm-dd-yyyy
+title: "yyyy-mm-dd D1 DNeasy Blood & Tissue Kit gDNA Extraction"
+date: yyyy-mm-dd
 categories: [genomics, stylaster]
 ---
 
@@ -23,7 +23,7 @@ Lysis/Proteinase K Incubation
 
 > Use screw cap tube to prevent leaking in incubator
 
-4. Add 180 uL of Buffer ATL and 20 ul of Proteinase K to each tube. Parafilm wrap lid so it doesn't leak in incubator.
+4. Add 720 uL of Buffer ATL and 80 ul of Proteinase K to each tube. Parafilm wrap lid so it doesn't leak in incubator.
 5. Invert to mix WELL. Do not vortex.
 6. Incubate in a rotating incubator (Incubator Genie, speed 5) at 56˚C overnight.
 

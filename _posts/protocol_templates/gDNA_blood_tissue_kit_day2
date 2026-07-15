@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "mm/dd/yyyy D2 DNeasy Blood & Tissue Kit gDNA Extraction"
-date: mm-dd-yyyy
+title: "yyyy-mm-dd D2 DNeasy Blood & Tissue Kit gDNA Extraction"
+date: yyyy-mm-dd
 categories: [genomics, stylaster]
 ---
 
@@ -28,7 +28,7 @@ Preparation
 
 RNA Removal
 
-5. Add 2 μl RNase A (100 mg/ml) to sample, flick and spin to mix well, and incubate for 20 minutes at 37˚C in thermal cycler. Transfer supernatant to a clean 2 mL collection tube. Discard pellet. 
+5. Add 2 μl RNase A (100 mg/ml) to sample, flick and spin to mix well, and incubate for 30 minutes at RT. Transfer supernatant to a clean 2 mL collection tube. Discard pellet. 
 
 Bind
 
