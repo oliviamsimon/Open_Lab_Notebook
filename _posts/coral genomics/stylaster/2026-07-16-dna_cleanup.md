@@ -23,16 +23,16 @@ Preparation
 Precipitation
 3. Add 0.1 volume 3M sodium acetate (pH 5.2) to sample and 1 uL glycoblue
 4. Mix by gentle inversion (don't vortex)
-5. Add 0.6–0.7 volumes ice cold isopropanol
-6. Mix by gentle inversion until DNA precipitate is visible (stringy/white)
-7. Centrifuge at 10,000 x g, 4°C, 15-30 min until pellet is visible. Carefully remove and supernatant, store in case transfer was unsuccessful. Do not disturb pellet.
+5. Add 0.6–0.7x ice cold isopropanol. 
+6. Mix by gentle inversion until DNA precipitate is visible (stringy/white). Incubate at 4˚C for 20 minutes.
+7. Centrifuge at 10,000 x g, 4°C, 15 min until pellet is visible. Carefully remove and supernatant, store in case transfer was unsuccessful. Do not disturb pellet.
 
 Wash
 8. Add equal volume to isopropanol of fresh ice-cold 70% ethanol to rinse pellet
 9. Centrifuge at 10,000 x g for 5-10 min at 4°C. 
 10. Repeat 2x more for a total of 3 washes
 11. Air dry for 5-10 minutes until translucent (not fully clear/glassy — avoid over-drying).
-12. Resuspend in TE buffer overnight at RT. 
+12. Resuspend in Buffer EA overnight at RT. 
 
 Storage
 13. Store in -20˚C until future use.
@@ -40,5 +40,11 @@ Storage
 ## NOTES
 - Volume Sodium acetate added = 50 x 0.1 = 5 uL
 - Volume Isopropanol added = 50 x 0.7 = 35 uL
-- Volume ethanol added = 35 uL
+- Volume Ethanol added = 35 uL
 - Resuspension volume = 
+- After isopropanol added, white precipitate formed after mixing. Spun down between inversions. 
+- 15 min spin after isopropanol sufficient
+- 5 min spin after ethanol added sufficient
+- On third ethanol wash, had to spin back down while removing supernatant because pellet dislodged
+- 5 min air dry sufficient
+- Resuspended in 60 uL Buffer EA (Qiagen)
