@@ -7,48 +7,26 @@ categories: [genomics, stylaster]
 
 ## SAMPLES
 
-2026-07-24 SC3_1
-2026-07-24 SC3_2
+2026-07-24 SC3_1 eluted in 90 uL
+2026-07-24 SC3_2 eluted in 90 uL
 
 
 ## PROTOCOL
 
-1. Fragment coral into small chunks.
+1. Obtain samples from freezer. Thaw glycoblue and prep 75% ethanol.
 
-2. Transfer fragment to a tube, taking care to avoid powder.
+2. Add 1 uL glycoblue and 9 uL sodium acetate to sample. Chill in 4˚C fridge for 30 minutes.
 
-3. Add 180 µL of ATL buffer and 25 µL of Proteinase K.
+3. Spin down at 17,000 x g for 15 minutes, 4˚C.
 
-4. Mix by vortexing, then incubate for 20 min at 56 °C.
+4. Ensure pellet has formed. If not, spin down for 5 more mins at 17,000 x g. Remove the supernatant, taking care not to disturb the pellet.
 
-5. Mix by vortexing for 40 seconds (Clarify sample by spin if needed).
+5. Add 500 µL of chilled 75% ethanol (do not disturb the pellet) and centrifuge for 6 min at 20,000 × g.
 
-6. Add 200 µL of Buffer AL and mix by vortexing.
+6. Repeat Step 17.
 
-7. Add 200 µL of 100% ethanol and mix by vortexing.
+7. Remove as much ethanol as possible. Air dry with the cap open for 5-10 minutes. 
 
-8. Transfer the mixture into a spin column, centrifuge for 1 min at >6,000 × g, and discard the flow-through.
-
-9. Add 500 µL of Buffer AW1, centrifuge for 1 min at >6,000 × g, and discard the flow-through.
-
-10. Add 500 µL of Buffer AW2, centrifuge for 3 min at >20,000 × g, and discard the flow-through.
-
-11. Elute DNA into a new tube using 90 µL of Buffer AE.
-
-12. Add 2 µL of RNase A (or RNase I) and 10 µL of reaction buffer.
-
-13. Incubate for 15 min at 37 °C. Get ice.
-
-14. Add 150 µL of chilled isopropanol, then incubate on ice for 10 min.
-
-15. Centrifuge for 10 min at 20,000 × g.
-
-16. Remove the supernatant, taking care not to disturb the pellet.
-
-17. Add 500 µL of chilled 75% ethanol (do not disturb the pellet) and centrifuge for 5 min at 20,000 × g.
-
-18. Repeat Step 17.
-
-19. Resuspend the pellet in 50 µL of nuclease-free water.
+8. Resuspend the pellet in 50 µL of nuclease-free water at RT overnight. 
 
 ## NOTES
