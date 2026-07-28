@@ -1,0 +1,54 @@
+---
+layout: post
+title: "2026-07-28 cleanup round 2"
+date: 2026-07-28 
+categories: [genomics, stylaster]
+---
+
+## SAMPLES
+
+2026-07-24 SC3_1
+2026-07-24 SC3_2
+
+
+## PROTOCOL
+
+1. Fragment coral into small chunks.
+
+2. Transfer fragment to a tube, taking care to avoid powder.
+
+3. Add 180 µL of ATL buffer and 25 µL of Proteinase K.
+
+4. Mix by vortexing, then incubate for 20 min at 56 °C.
+
+5. Mix by vortexing for 40 seconds (Clarify sample by spin if needed).
+
+6. Add 200 µL of Buffer AL and mix by vortexing.
+
+7. Add 200 µL of 100% ethanol and mix by vortexing.
+
+8. Transfer the mixture into a spin column, centrifuge for 1 min at >6,000 × g, and discard the flow-through.
+
+9. Add 500 µL of Buffer AW1, centrifuge for 1 min at >6,000 × g, and discard the flow-through.
+
+10. Add 500 µL of Buffer AW2, centrifuge for 3 min at >20,000 × g, and discard the flow-through.
+
+11. Elute DNA into a new tube using 90 µL of Buffer AE.
+
+12. Add 2 µL of RNase A (or RNase I) and 10 µL of reaction buffer.
+
+13. Incubate for 15 min at 37 °C. Get ice.
+
+14. Add 150 µL of chilled isopropanol, then incubate on ice for 10 min.
+
+15. Centrifuge for 10 min at 20,000 × g.
+
+16. Remove the supernatant, taking care not to disturb the pellet.
+
+17. Add 500 µL of chilled 75% ethanol (do not disturb the pellet) and centrifuge for 5 min at 20,000 × g.
+
+18. Repeat Step 17.
+
+19. Resuspend the pellet in 50 µL of nuclease-free water.
+
+## NOTES

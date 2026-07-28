@@ -1,0 +1,72 @@
+---
+layout: post
+title: "2026-07-24 Modified DNeasy Blood & Tissue Kit gDNA Extraction"
+date: 2026-07-24
+categories: [genomics, stylaster]
+---
+
+## OBJECTIVE
+
+New extraction protocol to hopefully reduce degradation during process.
+
+## SAMPLES
+
+| Sample               |Tube Mass (mg)|Final Mass (mg)|
+|    :----:            |    :----:   |    :----:      |
+| 1. 2026-07-24 sc3_1       |     1301.6   |      1728.8   |
+| 2. 2026-07-24 sc3_2       |     1301     |      ~1500    |
+
+## PROTOCOL
+
+1. Fragment coral into small chunks.
+
+2. Transfer fragment to a screw-cap epitube, taking care to avoid powder.
+
+Lysis
+
+3. Add 180 µL of ATL buffer and 25 µL of Proteinase K.
+
+4. Mix by vortexing, then incubate for 20 min at 56 °C.
+
+5. Mix by vortexing for 40 seconds (Clarify sample by spin if needed).
+
+6. Add 200 µL of Buffer AL and mix by vortexing.
+
+7. Add 200 µL of 100% ethanol and mix by vortexing.
+
+Binding
+
+8. Transfer the mixture into a spin column, centrifuge for 1 min at >6,000 × g, and discard the flow-through.
+
+9. Add 500 µL of Buffer AW1, centrifuge for 1 min at >6,000 × g, and discard the flow-through.
+
+10. Add 500 µL of Buffer AW2, centrifuge for 3 min at >20,000 × g, and discard the flow-through.
+
+Elution
+
+11. Add 90 uL AE buffer directly onto the center of the filter. Let sit for 3 minutes. Elute DNA into a new tube by spinning down for 1 min at 6,000 x g.
+
+12. Add 2 µL of RNase A (or RNase I) and 10 µL of reaction buffer.
+
+13. Incubate for 15 min at 37 °C. Get ice.
+
+Cleanup
+
+14. Add 150 µL of chilled isopropanol, then incubate on ice for 10 min.
+
+15. Centrifuge for 10 min at 17,000 × g.
+
+16. Remove the supernatant, taking care not to disturb the pellet.
+
+17. Add 500 µL of chilled 75% ethanol (do not disturb the pellet) and centrifuge for 5 min at 20,000 × g.
+
+18. Repeat Step 17.
+
+19. Resuspend the pellet in 50 µL of nuclease-free water.
+
+## NOTES
+
+- Added too much coral fragment sample, placed 'overflow' fragment in new tube and treated as sample 2.
+- During cleanup, DNA didn't spin down enough in isopropanol to form pellet --> I saved isopropanol fraction though so need to redo steps 15-19, but with 15 min at 17,000 x g, 4˚C
+    - see '2026-07-28-cleanup-round-2.md'
+
