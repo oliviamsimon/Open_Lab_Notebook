@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "yyyy-mm-dd 1% Agarose Gel Electrophoresis"
-date: yyyy-mm-dd
+title: "2026-07-29 1% Agarose Gel Electrophoresis"
+date: 2026-07-29
 categories: [genomics, stylaster]
 ---
 

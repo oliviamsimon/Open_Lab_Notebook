@@ -21,7 +21,7 @@ categories: [genomics, stylaster]
 
 4. Ensure pellet has formed. If not, spin down for 5 more mins at 17,000 x g. Remove the supernatant, taking care not to disturb the pellet.
 
-5. Add 500 µL of chilled 75% ethanol (do not disturb the pellet) and centrifuge for 6 min at 20,000 × g.
+5. Add 500 µL of chilled 75% ethanol (do not disturb the pellet) and centrifuge for 6 min at 17,000 × g.
 
 6. Repeat Step 17.
 
@@ -30,3 +30,5 @@ categories: [genomics, stylaster]
 8. Resuspend the pellet in 50 µL of nuclease-free water at RT overnight. 
 
 ## NOTES
+
+- Pellet formed 
