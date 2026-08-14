@@ -75,3 +75,4 @@ Cleanup
 - Samples stored in 'CWC gDNA Box # 2' in pre-PCR fridge.
     - 'EDTA' = supernatant from EDTA incubation
     - 'EDTA H2O' = both H2O washes after EDTA incubation
+- Resuspended in 50 uL ddH2O, left in 4˚C overnight to resuspend 
