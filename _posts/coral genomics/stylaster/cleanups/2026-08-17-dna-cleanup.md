@@ -26,7 +26,7 @@ Precipitation
 4. Mix by gentle inversion (don't vortex)
 5. Add 33 uL ice cold isopropanol
 6. Mix by gentle inversion until DNA precipitate is visible (stringy/white)
-7. Centrifuge at 10,000 x g, 4°C, 15-30 min until pellet is visible. Carefully remove and supernatant, store in case transfer was unsuccessful. Do not disturb pellet.
+7. Centrifuge at 10,000 x g, 4°C, 10 min until pellet is visible. Carefully remove supernatant, store in case transfer was unsuccessful. Do not disturb pellet.
 
 Wash
 8. Add 33 uL fresh ice-cold 70% ethanol to rinse pellet
