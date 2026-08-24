@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "2026-08-13 Modified DNeasy Blood & Tissue Kit gDNA Extraction"
-date: 2026-08-13
+title: "2026-08-24 Modified DNeasy Blood & Tissue Kit gDNA Extraction"
+date: 2026-08-24
 categories: [genomics, stylaster]
 ---
 
