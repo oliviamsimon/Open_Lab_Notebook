@@ -11,7 +11,7 @@ categories: [genomics, stylaster]
 
 # NOTE
 
-* Fragment was added to tube with 10% EDTA, soaked overnight at 4˚C, spun down at ~4,250 x g's for 10 mins @ 4˚C then flash frozen and stored in -80˚C freezer. 
+* Coral fragment was added to tube with 10% EDTA, soaked overnight at 4˚C, spun down at ~4,250 x g's for 10 mins @ 4˚C then flash frozen and stored in -80˚C freezer. 
 
 ## PROTOCOL
 
