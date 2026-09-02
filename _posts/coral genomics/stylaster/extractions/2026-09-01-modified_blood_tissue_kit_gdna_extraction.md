@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "2026-09-01 Decalcification + Modified DNeasy Blood & Tissue Kit gDNA Extraction"
-date: 2026-09-01
+title: "2026-08-26 Decalcification + Modified DNeasy Blood & Tissue Kit gDNA Extraction"
+date: 2026-08-26
 categories: [genomics, stylaster]
 ---
 
@@ -28,16 +28,29 @@ Extraction
 
 4. Rinse in ddH2O by adding 1000 uL ddH2O, vortexing, centrifuging at 4,000 × g for 5 min at 4˚C, then discarding supernatant. Repeat once more for a total of two washes.
 
+### NOTE
+- Forgot to do this rinse step with water. Instead, just centrifuged down pellet, removed supernatant, flash froze in LN2, then resuspended in ATL and prot K --> do two AW1 and AW2 steps
+- cell pellet was orange colored
 
 Lysis
 
-5. Add 1080 µL of ATL buffer and 150 µL of Proteinase K. Mix by vortexing, then incubate overnight at 56°C. Split sample into 3 tubes, each with ~410 uL lysate.
+5. Add 720 µL of ATL buffer and 100 µL of Proteinase K. Mix by vortexing, then incubate for 2 hours at 56°C. 
 
-6. Add 410 µL of Buffer AL and mix by vortexing.
+CTAB Pre-Extraction
+
+6. Add 2 uL B-mercaptoethanol to 1000 uL CTAB. 
+
+7. Split sample into 3 microcentrifuge tubes for next steps (~274 uL per tube). Add 274 uL of 2X CTAB to each tube. Mix by inversion. Incubate at 65˚C for 10 minutes.
+
+8. Add equal volume (410 uL) of chloroform. Centrifuge at 10,000 × g for 10 min at 4°C
+
+9. Carefully pipette off the top aqueous layer into a fresh tube (should be ~200 uL) avoiding the interface.
+
+10. Add 800 µL of Buffer AL and mix by vortexing.
 
 Binding 
 
-3. Add 410 µL of ice-cold 100% ethanol and mix by vortexing. Transfer 650 uL of the mixture onto a spin column (you will need 3 spin columns per sample), centrifuge for 1 min at 6,000 × g, and discard the flow-through.
+3. Add 800 µL of ice-cold 100% ethanol and mix by vortexing. Transfer 650 uL of the mixture onto a spin column (you will need 3 spin columns per sample), centrifuge for 1 min at 6,000 × g, and discard the flow-through.
 
 
 Washing
@@ -58,7 +71,7 @@ Elution
 
 Cleanup
 
-15. Add 10 uL (0.1 volume) 3M sodium acetate (pH 5.2) to sample, 1 uL glycoblue, and 210 µL of chilled isopropanol. Chill in 4˚C fridge for 30 minutes.
+15. Add 10 uL (0.1 volume) 3M sodium acetate (pH 5.2) to sample, 1 uL glycoblue, and 210== µL of chilled isopropanol. Chill in 4˚C fridge for 30 minutes.
 
 16. 10,000 x g, 4°C, 10 min until pellet is visible. Carefully remove supernatant, store in case transfer was unsuccessful. Do not disturb pellet.
 
