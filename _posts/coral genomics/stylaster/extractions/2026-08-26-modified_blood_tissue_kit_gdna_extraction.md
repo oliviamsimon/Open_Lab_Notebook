@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "2026-09-01 Decalcification + Modified DNeasy Blood & Tissue Kit gDNA Extraction"
-date: 2026-09-01
+title: "2026-08-26 Decalcification + Modified DNeasy Blood & Tissue Kit gDNA Extraction"
+date: 2026-08-26
 categories: [genomics, stylaster]
 ---
 
