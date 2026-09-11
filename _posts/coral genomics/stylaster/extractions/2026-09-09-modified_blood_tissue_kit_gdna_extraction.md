@@ -86,4 +86,7 @@ Cleanup
 # NOTE
 - Some white precipitate still floating in one of tubes after overnight soak, so placed at 37˚C for 15 mins to see if precipitate resuspends.
 
-
+# CONCLUSION
+- nanodrop looks really bad -- mostly protein absorbance with another peak at ~220 nm
+- 1% gel also looks really bad
+- try to do this exact protocol: https://www.protocols.io/view/acropora-dna-extraction-with-qiagen-dneasy-tissue-dm6gpr5r8vzp/v2
